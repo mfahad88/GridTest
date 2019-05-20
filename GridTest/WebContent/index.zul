@@ -1,0 +1,14 @@
+<?page title="Auto Generated index.zul"?>
+<window title="Hello World!!" border="normal" width="1000px" apply="com.gridtest.composer.GridComposer">
+	<button label="Fetch" id="btn_fetch" />
+	<grid id="grid">
+		<columns>
+			<column hflex="2">UserId</column>
+			<column hflex="2">Id</column>
+			<column hflex="4">Title</column>
+			<column hflex="4">Body</column>
+		
+		</columns>
+		
+	</grid>
+</window>
